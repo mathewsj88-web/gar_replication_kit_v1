@@ -19,7 +19,8 @@ Together, they quantify *discipline behavior* the way volatility quantifies risk
 ## 🚀  Five-Minute Quickstart (Colab or Local)
 
 1. **Open in Colab**  
-   *(Update this link after pushing to GitHub)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathewsjonathan/gar_replication_kit_v1/blob/main/00_quickstart_runme.ipynb)
+
 
 2. **Run the Notebook**  
    - The first cell installs dependencies.  
