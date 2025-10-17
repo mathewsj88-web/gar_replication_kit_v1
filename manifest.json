@@ -1,0 +1,28 @@
+{
+  "version": "v1.0",
+  "generated_at_utc": "2025-10-17T20:16:13Z",
+  "files": [
+    {
+      "path": "data/sample_returns.csv",
+      "sha256": "d1e5382b180e5f490aa3d66a0b9e618ed4aa98b15e9fb31b397fddb217387b49",
+      "bytes": 2366,
+      "provenance": "synthetic/public-derived for replication"
+    },
+    {
+      "path": "data/sample_factors.csv",
+      "sha256": "77399da55ed635110e89797080d20a747a52d1a76a76e4c4760e11b60b70325b",
+      "bytes": 7473,
+      "provenance": "synthetic/public-derived for replication"
+    },
+    {
+      "path": "data/expected_headlines.json",
+      "sha256": "5d4e2d65dc30db75f615fb2a9b315f27b0b4ddfa5cc5e48afe8cb52d3924cbaf",
+      "bytes": 32,
+      "provenance": "synthetic/public-derived for replication"
+    }
+  ],
+  "notes": [
+    "All inputs are synthetic or public-derived for research and teaching.",
+    "Hashes ensure replication integrity; update when data changes."
+  ]
+}
